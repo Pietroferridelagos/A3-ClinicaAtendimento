@@ -61,7 +61,7 @@ Contribuições são bem-vindas! Se desejar contribuir:
 5. Abra um Pull Request.
 
 ## Contato
-- **Autor**: Seu Nome
-- **E-mail**: seu-email@example.com
-- **LinkedIn**: [seu-linkedin](https://www.linkedin.com/in/seu-usuario/)
+- **Autor**: Pietro Ferri de Lagos
+- **E-mail**: piferri@hotmail.com
+- **RA**: 129232388
 
